@@ -1,0 +1,785 @@
+fileFormatVersion: 2
+guid: 47aefaf39ba5d3b4e8c2d1408747fec0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 796014417043308308
+    second: StartScreen-Fundo-Symbols - Separados_0
+  - first:
+      213: -1947149273073900187
+    second: StartScreen-Fundo-Symbols - Separados_1
+  - first:
+      213: 8775518053098757741
+    second: StartScreen-Fundo-Symbols - Separados_2
+  - first:
+      213: 4798518688368503540
+    second: StartScreen-Fundo-Symbols - Separados_3
+  - first:
+      213: -4795456300041978354
+    second: StartScreen-Fundo-Symbols - Separados_4
+  - first:
+      213: -6374164680344415968
+    second: StartScreen-Fundo-Symbols - Separados_5
+  - first:
+      213: -5898317853597889764
+    second: StartScreen-Fundo-Symbols - Separados_6
+  - first:
+      213: -6201890858726674208
+    second: StartScreen-Fundo-Symbols - Separados_7
+  - first:
+      213: -9058840364069436082
+    second: StartScreen-Fundo-Symbols - Separados_8
+  - first:
+      213: -2017645519256698048
+    second: StartScreen-Fundo-Symbols - Separados_9
+  - first:
+      213: -6997235749916645565
+    second: StartScreen-Fundo-Symbols - Separados_10
+  - first:
+      213: 2883324637518942253
+    second: StartScreen-Fundo-Symbols - Separados_11
+  - first:
+      213: -8161336819482665512
+    second: StartScreen-Fundo-Symbols - Separados_12
+  - first:
+      213: 7533681554301995887
+    second: StartScreen-Fundo-Symbols - Separados_13
+  - first:
+      213: 5266674116946283102
+    second: StartScreen-Fundo-Symbols - Separados_14
+  - first:
+      213: -6665115747741317104
+    second: StartScreen-Fundo-Symbols - Separados_15
+  - first:
+      213: 6012776383898452376
+    second: StartScreen-Fundo-Symbols - Separados_16
+  - first:
+      213: 3900460668997528818
+    second: StartScreen-Fundo-Symbols - Separados_17
+  - first:
+      213: -7432927200784690307
+    second: StartScreen-Fundo-Symbols - Separados_18
+  - first:
+      213: 4551901319752168813
+    second: StartScreen-Fundo-Symbols - Separados_19
+  - first:
+      213: 8749391710586475121
+    second: StartScreen-Fundo-Symbols - Separados_20
+  - first:
+      213: 4769778269459139836
+    second: StartScreen-Fundo-Symbols - Separados_21
+  - first:
+      213: 4959190261064408247
+    second: StartScreen-Fundo-Symbols - Separados_22
+  - first:
+      213: -8050681358228107474
+    second: StartScreen-Fundo-Symbols - Separados_23
+  - first:
+      213: -4771585952816847443
+    second: StartScreen-Fundo-Symbols - Separados_24
+  - first:
+      213: 5199216694039702444
+    second: StartScreen-Fundo-Symbols - Separados_25
+  - first:
+      213: 7186454213206278722
+    second: StartScreen-Fundo-Symbols - Separados_26
+  - first:
+      213: 1044490047403866733
+    second: StartScreen-Fundo-Symbols - Separados_27
+  - first:
+      213: -1471276264473411110
+    second: StartScreen-Fundo-Symbols - Separados_28
+  - first:
+      213: 3032655793684870679
+    second: StartScreen-Fundo-Symbols - Separados_29
+  - first:
+      213: -7433087293849594149
+    second: StartScreen-Fundo-Symbols - Separados_30
+  - first:
+      213: -2928771208646237749
+    second: StartScreen-Fundo-Symbols - Separados_31
+  - first:
+      213: 4228595690848978058
+    second: StartScreen-Fundo-Symbols - Separados_32
+  - first:
+      213: 6690283730794306742
+    second: StartScreen-Fundo-Symbols - Separados_33
+  - first:
+      213: 5894474723965410433
+    second: StartScreen-Fundo-Symbols - Separados_34
+  - first:
+      213: 5688599004596530799
+    second: StartScreen-Fundo-Symbols - Separados_35
+  - first:
+      213: 2822117050092065310
+    second: StartScreen-Fundo-Symbols - Separados_36
+  - first:
+      213: -5551786326178781818
+    second: StartScreen-Fundo-Symbols - Separados_37
+  - first:
+      213: -522627962217168809
+    second: StartScreen-Fundo-Symbols - Separados_38
+  - first:
+      213: -7259384288370379254
+    second: StartScreen-Fundo-Symbols - Separados_39
+  - first:
+      213: -1070196837821113796
+    second: StartScreen-Fundo-Symbols - Separados_40
+  - first:
+      213: -3344040875417354193
+    second: StartScreen-Fundo-Symbols - Separados_41
+  - first:
+      213: 7563730242411991830
+    second: StartScreen-Fundo-Symbols - Separados_42
+  - first:
+      213: -2638122653324142878
+    second: StartScreen-Fundo-Symbols - Separados_43
+  - first:
+      213: -904681582818523253
+    second: StartScreen-Fundo-Symbols - Separados_44
+  - first:
+      213: -8790574158139169713
+    second: StartScreen-Fundo-Symbols - Separados_45
+  - first:
+      213: 3812699244990211021
+    second: StartScreen-Fundo-Symbols - Separados_46
+  - first:
+      213: 1795326616224745996
+    second: StartScreen-Fundo-Symbols - Separados_47
+  - first:
+      213: 6109847941768654353
+    second: StartScreen-Fundo-Symbols - Separados_48
+  - first:
+      213: 5939838568622819982
+    second: StartScreen-Fundo-Symbols - Separados_49
+  - first:
+      213: 6876689573338649316
+    second: StartScreen-Fundo-Symbols - Separados_50
+  - first:
+      213: 5214441362934718617
+    second: StartScreen-Fundo-Symbols - Separados_51
+  - first:
+      213: 5462830193462441960
+    second: StartScreen-Fundo-Symbols - Separados_52
+  - first:
+      213: -1879568591807197276
+    second: StartScreen-Fundo-Symbols - Separados_53
+  - first:
+      213: -2824611627282383670
+    second: StartScreen-Fundo-Symbols - Separados_54
+  - first:
+      213: 3230404769131673062
+    second: StartScreen-Fundo-Symbols - Separados_55
+  - first:
+      213: 6660626806686764608
+    second: StartScreen-Fundo-Symbols - Separados_56
+  - first:
+      213: 9124348344083733119
+    second: StartScreen-Fundo-Symbols - Separados_57
+  - first:
+      213: 7955367405317119077
+    second: StartScreen-Fundo-Symbols - Separados_58
+  - first:
+      213: -1283518843508275013
+    second: StartScreen-Fundo-Symbols - Separados_59
+  - first:
+      213: 4258418868392872847
+    second: StartScreen-Fundo-Symbols - Separados_60
+  - first:
+      213: 8444715611522330297
+    second: StartScreen-Fundo-Symbols - Separados_61
+  - first:
+      213: 5465780709430554241
+    second: StartScreen-Fundo-Symbols - Separados_62
+  - first:
+      213: -2861815004263081056
+    second: StartScreen-Fundo-Symbols - Separados_63
+  - first:
+      213: 8665136729116191262
+    second: StartScreen-Fundo-Symbols - Separados_64
+  - first:
+      213: -3662997946934105868
+    second: StartScreen-Fundo-Symbols - Separados_65
+  - first:
+      213: 1767945189706836392
+    second: StartScreen-Fundo-Symbols - Separados_66
+  - first:
+      213: -5670054187898573365
+    second: StartScreen-Fundo-Symbols - Separados_67
+  - first:
+      213: -7613055807796562244
+    second: StartScreen-Fundo-Symbols - Separados_68
+  - first:
+      213: 5929931610594862147
+    second: StartScreen-Fundo-Symbols - Separados_69
+  - first:
+      213: -8452945185772589526
+    second: StartScreen-Fundo-Symbols - Separados_70
+  - first:
+      213: -5344076429996759805
+    second: StartScreen-Fundo-Symbols - Separados_71
+  - first:
+      213: -6102796140690122730
+    second: StartScreen-Fundo-Symbols - Separados_72
+  - first:
+      213: 8204105396376813442
+    second: StartScreen-Fundo-Symbols - Separados_73
+  - first:
+      213: 6373899034015465591
+    second: StartScreen-Fundo-Symbols - Separados_74
+  - first:
+      213: 8408651877258031616
+    second: StartScreen-Fundo-Symbols - Separados_75
+  - first:
+      213: -100789368409529388
+    second: StartScreen-Fundo-Symbols - Separados_76
+  - first:
+      213: -1472661194867698306
+    second: StartScreen-Fundo-Symbols - Separados_77
+  - first:
+      213: 511616387718453828
+    second: StartScreen-Fundo-Symbols - Separados_78
+  - first:
+      213: -5209356900072465243
+    second: StartScreen-Fundo-Symbols - Separados_79
+  - first:
+      213: 2344968012567324934
+    second: StartScreen-Fundo-Symbols - Separados_80
+  - first:
+      213: 5667688546743529384
+    second: StartScreen-Fundo-Symbols - Separados_81
+  - first:
+      213: 729833181863608916
+    second: StartScreen-Fundo-Symbols - Separados_82
+  - first:
+      213: -2645260245791083627
+    second: StartScreen-Fundo-Symbols - Separados_83
+  - first:
+      213: -4875072730078402581
+    second: StartScreen-Fundo-Symbols - Separados_84
+  - first:
+      213: -7956234336825401188
+    second: StartScreen-Fundo-Symbols - Separados_85
+  - first:
+      213: -3382229280553358892
+    second: StartScreen-Fundo-Symbols - Separados_86
+  - first:
+      213: -6442833400941306709
+    second: StartScreen-Fundo-Symbols - Separados_87
+  - first:
+      213: -4649337273524520072
+    second: StartScreen-Fundo-Symbols - Separados_88
+  - first:
+      213: -6344218213156728362
+    second: StartScreen-Fundo-Symbols - Separados_89
+  - first:
+      213: 5972702036053983434
+    second: StartScreen-Fundo-Symbols - Separados_90
+  - first:
+      213: -1692200777325077873
+    second: StartScreen-Fundo-Symbols - Separados_91
+  - first:
+      213: 1154016923800078364
+    second: StartScreen-Fundo-Symbols - Separados_92
+  - first:
+      213: -3197217277408612261
+    second: StartScreen-Fundo-Symbols - Separados_93
+  - first:
+      213: 4822512972866547186
+    second: StartScreen-Fundo-Symbols - Separados_94
+  - first:
+      213: -7061720386109899225
+    second: StartScreen-Fundo-Symbols - Separados_95
+  - first:
+      213: 1616030862956954811
+    second: StartScreen-Fundo-Symbols - Separados_96
+  - first:
+      213: 4567594703132842633
+    second: StartScreen-Fundo-Symbols - Separados_97
+  - first:
+      213: 8954349542113393158
+    second: StartScreen-Fundo-Symbols - Separados_98
+  - first:
+      213: -4429821052881982934
+    second: StartScreen-Fundo-Symbols - Separados_99
+  - first:
+      213: 7831827320314585425
+    second: StartScreen-Fundo-Symbols - Separados_100
+  - first:
+      213: -1443692271229431277
+    second: StartScreen-Fundo-Symbols - Separados_101
+  - first:
+      213: -8753578359823709431
+    second: StartScreen-Fundo-Symbols - Separados_102
+  - first:
+      213: 5920602245087329648
+    second: StartScreen-Fundo-Symbols - Separados_103
+  - first:
+      213: -8202654920058508327
+    second: StartScreen-Fundo-Symbols - Separados_104
+  - first:
+      213: -4516335723943841903
+    second: StartScreen-Fundo-Symbols - Separados_105
+  - first:
+      213: -3198526145490613918
+    second: StartScreen-Fundo-Symbols - Separados_106
+  - first:
+      213: 8688090717221262197
+    second: StartScreen-Fundo-Symbols - Separados_107
+  - first:
+      213: -819121145500844335
+    second: StartScreen-Fundo-Symbols - Separados_108
+  - first:
+      213: -5667417804292457199
+    second: StartScreen-Fundo-Symbols - Separados_109
+  - first:
+      213: -539206528111271048
+    second: StartScreen-Fundo-Symbols - Separados_110
+  - first:
+      213: -5752314654858975479
+    second: StartScreen-Fundo-Symbols - Separados_111
+  - first:
+      213: -1795153117495832163
+    second: StartScreen-Fundo-Symbols - Separados_112
+  - first:
+      213: -2665637567096373206
+    second: StartScreen-Fundo-Symbols - Separados_113
+  - first:
+      213: -345507270832039046
+    second: StartScreen-Fundo-Symbols - Separados_114
+  - first:
+      213: 2418062226039045751
+    second: StartScreen-Fundo-Symbols - Separados_115
+  - first:
+      213: -3854864174219583619
+    second: StartScreen-Fundo-Symbols - Separados_116
+  - first:
+      213: -5484434517733252995
+    second: StartScreen-Fundo-Symbols - Separados_117
+  - first:
+      213: 3317527525966723809
+    second: StartScreen-Fundo-Symbols - Separados_118
+  - first:
+      213: 4891866832839098992
+    second: StartScreen-Fundo-Symbols - Separados_119
+  - first:
+      213: -7245416275285189609
+    second: StartScreen-Fundo-Symbols - Separados_120
+  - first:
+      213: -1741691099352780574
+    second: StartScreen-Fundo-Symbols - Separados_121
+  - first:
+      213: -485603992975605563
+    second: StartScreen-Fundo-Symbols - Separados_122
+  - first:
+      213: 1471247858699460971
+    second: StartScreen-Fundo-Symbols - Separados_123
+  - first:
+      213: -165729487053409346
+    second: StartScreen-Fundo-Symbols - Separados_124
+  - first:
+      213: 1837445557337995460
+    second: StartScreen-Fundo-Symbols - Separados_125
+  - first:
+      213: -3823355018461101017
+    second: StartScreen-Fundo-Symbols - Separados_126
+  - first:
+      213: -4440319904899927013
+    second: StartScreen-Fundo-Symbols - Separados_127
+  - first:
+      213: 3724997435766854553
+    second: StartScreen-Fundo-Symbols - Separados_128
+  - first:
+      213: 1407376446788873020
+    second: StartScreen-Fundo-Symbols - Separados_129
+  - first:
+      213: -7251798255995576187
+    second: StartScreen-Fundo-Symbols - Separados_130
+  - first:
+      213: 29913289527679352
+    second: StartScreen-Fundo-Symbols - Separados_131
+  - first:
+      213: -1591461488996435240
+    second: StartScreen-Fundo-Symbols - Separados_132
+  - first:
+      213: 2158479925174596522
+    second: StartScreen-Fundo-Symbols - Separados_133
+  - first:
+      213: -1373445826532127727
+    second: StartScreen-Fundo-Symbols - Separados_134
+  - first:
+      213: 3331196350540130143
+    second: StartScreen-Fundo-Symbols - Separados_135
+  - first:
+      213: -4581790227508454779
+    second: StartScreen-Fundo-Symbols - Separados_136
+  - first:
+      213: -3555109286402892492
+    second: StartScreen-Fundo-Symbols - Separados_137
+  - first:
+      213: 2171089066964578420
+    second: StartScreen-Fundo-Symbols - Separados_138
+  - first:
+      213: -1806585526179295452
+    second: StartScreen-Fundo-Symbols - Separados_139
+  - first:
+      213: 7579383035218933069
+    second: StartScreen-Fundo-Symbols - Separados_140
+  - first:
+      213: -70692111756964709
+    second: StartScreen-Fundo-Symbols - Separados_141
+  - first:
+      213: 1978259279985053914
+    second: StartScreen-Fundo-Symbols - Separados_142
+  - first:
+      213: -4669620673818781998
+    second: StartScreen-Fundo-Symbols - Separados_143
+  - first:
+      213: -1977466956620527606
+    second: StartScreen-Fundo-Symbols - Separados_144
+  - first:
+      213: -8691673066817031094
+    second: StartScreen-Fundo-Symbols - Separados_145
+  - first:
+      213: 1776688018804052792
+    second: StartScreen-Fundo-Symbols - Separados_146
+  - first:
+      213: 2403973272845941091
+    second: StartScreen-Fundo-Symbols - Separados_147
+  - first:
+      213: -3093597318611915289
+    second: StartScreen-Fundo-Symbols - Separados_148
+  - first:
+      213: -3567808232934245351
+    second: StartScreen-Fundo-Symbols - Separados_149
+  - first:
+      213: -6179973688863529942
+    second: StartScreen-Fundo-Symbols - Separados_150
+  - first:
+      213: -6341088885787313042
+    second: StartScreen-Fundo-Symbols - Separados_151
+  - first:
+      213: 8087694774600703103
+    second: StartScreen-Fundo-Symbols - Separados_152
+  - first:
+      213: -1100648872862976644
+    second: StartScreen-Fundo-Symbols - Separados_153
+  - first:
+      213: 2996103961020222501
+    second: StartScreen-Fundo-Symbols - Separados_154
+  - first:
+      213: -1059165485658160697
+    second: StartScreen-Fundo-Symbols - Separados_155
+  - first:
+      213: 528112279612428121
+    second: StartScreen-Fundo-Symbols - Separados_156
+  - first:
+      213: 2998056557101377333
+    second: StartScreen-Fundo-Symbols - Separados_157
+  - first:
+      213: -199610490912430253
+    second: StartScreen-Fundo-Symbols - Separados_158
+  - first:
+      213: -6118549714293275724
+    second: StartScreen-Fundo-Symbols - Separados_159
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: StartScreen-Fundo-Symbols - Separados_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41fb4f315e20c0b00800000000000000
+      internalID: 796014417043308308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StartScreen-Fundo-Symbols - Separados_1
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 10
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56525c57d065af4e0800000000000000
+      internalID: -1947149273073900187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StartScreen-Fundo-Symbols - Separados_2
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 10
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6e9af2bc27e8c970800000000000000
+      internalID: 8775518053098757741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StartScreen-Fundo-Symbols - Separados_3
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 10
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fa274cc253c79240800000000000000
+      internalID: 4798518688368503540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StartScreen-Fundo-Symbols - Separados_4
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 0
+        width: 30
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0eb61c07ed137db0800000000000000
+      internalID: -4795456300041978354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StartScreen-Fundo-Symbols - Separados_5
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 10
+        width: 110
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 021da38befa6a87a0800000000000000
+      internalID: -6374164680344415968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StartScreen-Fundo-Symbols - Separados_6
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 10
+        width: 120
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1b04fba927f42ea0800000000000000
+      internalID: -5898317853597889764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StartScreen-Fundo-Symbols - Separados_7
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 10
+        width: 110
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e0badd7f157ee9a0800000000000000
+      internalID: -6201890858726674208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StartScreen-Fundo-Symbols - Separados_8
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 10
+        width: 110
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e45cba64fa8884280800000000000000
+      internalID: -9058840364069436082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 47d06233744ad9c4eb3a7cb5b6b575ac
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
